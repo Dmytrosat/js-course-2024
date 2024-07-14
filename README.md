@@ -1,2 +1,2 @@
-# js-course-2024
+# JavaScript-course-2024
 js-course-2024
